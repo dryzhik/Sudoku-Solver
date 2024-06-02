@@ -1,0 +1,15 @@
+.sudoku-entry {
+    font-size: 24px;
+	font-family: Verdana;
+	min-width: 10px;
+}
+
+.solver-added {
+    color: blue;
+	min-width: 10px;
+}
+
+.error-message {
+    color: red;
+	font-size: 18px;
+}
